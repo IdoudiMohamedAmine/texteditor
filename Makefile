@@ -1,2 +1,2 @@
 texteditor: texteditor.c 
-	$(cc) texteditor.c -o texteditor -Wall -Wextra -pedantic -std=c99
+	$(CC) texteditor.c -o texteditor -Wall -Wextra -pedantic -std=c99
